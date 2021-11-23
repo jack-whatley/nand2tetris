@@ -14,8 +14,9 @@ CHIP And {
     OUT out;
 
     PARTS:
-    // Put your code here:
+    // and from nand gates
     Nand(a=a, b=b, out=nand1gate);
     Nand(a=a, b=b, out=nand2gate);
+    
     Nand(a=nand1gate, b=nand2gate, out=out);
 }
