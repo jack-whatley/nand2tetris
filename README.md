@@ -1,6 +1,4 @@
-# nand2tetris
-01 - fully complete\n
-02 - fully complete\n
-03 - fully complete
-04
-05
+## nand2tetris
+* 01 - fully complete (tested)
+* 02 - fully complete (tested)
+* 03 - fully complete (tested)
